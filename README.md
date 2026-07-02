@@ -1,1 +1,1 @@
-# Dual-Level-Neural-Watermarking-for-AI-Generated-Text-Detection-and-Attribution
+# Dual-Level Watermarking-for-AI-Generated-Text-Detection-and-Attribution
